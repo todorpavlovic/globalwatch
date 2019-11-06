@@ -17,7 +17,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "express": "^4.17.1",
-    "mongoose": "^5.7.1"
+    "mongoose": "^5.7.5"
   },
   "dependencies": {
     "mongoose-autopopulate": "^0.9.1"
